@@ -1,0 +1,9 @@
+{
+    "editor.find.autoFindInSelection": "never",
+    "editor.find.seedSearchStringFromSelection": "always",
+    "diffEditor.diffAlgorithm": "legacy",
+    "editor.inlineSuggest.enabled": true,
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "editor.suggest.preview": false,
+    "explorer.fileNesting.enabled": false
+}
